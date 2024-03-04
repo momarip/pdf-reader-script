@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "19863000000009004",
+      "name": "pdf-parser",
+      "domain": {
+        "id": "10074220776",
+        "name": "pdf-parser-846947554.development"
+      },
+      "timezone": "Africa/Casablanca",
+      "env": [
+        {
+          "idx": 1,
+          "id": "846947554",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
